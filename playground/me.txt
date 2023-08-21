@@ -1,0 +1,3 @@
+Name: Sakshi Dongare
+Skills: Java, javascript, MySQL, HTML, CSS, VS code, DBMS, OS, SQL, ST, PUG, Bootstrap
+Email: sakshidongare421@gmail.com
